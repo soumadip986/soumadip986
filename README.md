@@ -27,10 +27,8 @@ C | HTML | CSS | JavaScript | React | Git | GitHub
 
 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumadip986&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumadip986&show_icons=true&theme=radical"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumadip986&layout=compact&theme=tokyonight)
-
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumadip986&layout=compact&theme=radical"/>
 
 ⭐ Thanks for visiting my profile!
