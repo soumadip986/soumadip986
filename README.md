@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Soumadip Dey</h1>
 
-<!--
-**soumadip986/soumadip986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">CSE Student | Web Developer | Learning Full Stack Development 🚀</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 About Me
+
+🎓 2st Year CSE Student at Kalyani Government Engineering College
+
+🌱 Currently Learning:
+Data Structures & Algorithms
+React.js
+Full Stack Development
+
+💡 Interested In:
+Web Development
+AI Applications
+Software Engineering
+
+📫 Reach Me:
+Email: your-soumadipdey986@gmail.com
+
+🛠️ Tech Stack
+
+C | HTML | CSS | JavaScript | React | Git | GitHub
+
+📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumadip986&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumadip986&layout=compact&theme=tokyonight)
+
+---
+
+⭐ Thanks for visiting my profile!
