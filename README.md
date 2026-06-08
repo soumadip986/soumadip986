@@ -19,7 +19,7 @@ AI Applications
 Software Engineering
 
 📫 Reach Me:
-Email: your-soumadipdey986@gmail.com
+Email: soumadipdey986@gmail.com
 
 🛠️ Tech Stack
 
