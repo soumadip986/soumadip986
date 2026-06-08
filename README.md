@@ -23,7 +23,19 @@ Email: soumadipdey986@gmail.com
 
 🛠️ Tech Stack
 
-C | HTML | CSS | JavaScript | React | Git | GitHub
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 📊 GitHub Stats
 
