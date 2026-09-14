@@ -16,12 +16,6 @@
   <a href="mailto:soumadipdey986@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=soumadip986&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-
-</div>
-
 ---
 
 ## 👨‍💻 About Me
@@ -111,23 +105,12 @@
 </div>
 
 ---
-
 # 📈 GitHub Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumadip986&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=soumadip986&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
-
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=soumadip986&theme=tokyo-night&hide_border=true&area=true"
+  alt="Soumadip's GitHub Activity Graph"/>
 </div>
 
 ---
@@ -155,31 +138,10 @@
 - 🎬 Dynamic Hero Section
 - ⚙️ Environment Variable Configuration
 - ☁️ Production Deployment
-
-### 🏗️ Application Architecture
-
-```text
-                         FlavorFinder
-                              │
-                              ▼
-                    ┌──────────────────┐
-                    │    Frontend      │
-                    │ HTML • CSS • JS  │
-                    │     React        │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │ Node.js +        │
-                    │ Express Backend  │
-                    └───────┬──────────┘
-                            │
-                 ┌──────────┴──────────┐
-                 ▼                     ▼
-        ┌─────────────────┐   ┌─────────────────┐
-        │  TheMealDB API  │   │  MongoDB Atlas  │
-        │                 │   │                 │
-        │ Recipe Data     │   │ User Data       │
-        │ Search          │   │ Favorites       │
-        │ Categories      │   │ Authentication  │
-        └─────────────────┘   └─────────────────┘
+  
+🤝 Connect With Me 
+<p align="center"> <a href="mailto:soumadipdey986@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-thebadge&logo=gmail&logoColor=white"/> 
+</a> <a href="https://github.com/soumadip986">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> <div align="center"> 
+                                                       ⭐ Thanks for visiting my GitHub Profile
+                
