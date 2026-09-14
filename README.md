@@ -1,12 +1,24 @@
-# <div align="center"> 🚀 Hi, I'm Soumadip Dey 👋 </div>
-
 <div align="center">
 
-### Full Stack Web Developer • CSE Student • Open Source Learner
+# 👋 Hi, I'm Soumadip Dey
 
-*Building scalable web applications with modern JavaScript technologies.*
+### 💻 Full-Stack Developer • CSE Student • Problem Solver
 
-<img src="https://komarev.com/ghpvc/?username=soumadip986&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<p>
+  I build modern web applications, work with APIs and databases,
+  and continuously improve my software development skills.
+</p>
+
+<p>
+  <a href="https://github.com/soumadip986">
+    <img src="https://img.shields.io/badge/GitHub-soumadip986-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:soumadipdey986@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=soumadip986&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -14,189 +26,93 @@
 
 ## 👨‍💻 About Me
 
-I'm **Soumadip Dey**, a passionate **2nd Year Computer Science Engineering student** at **Kalyani Government Engineering College**.
+🎓 **Computer Science & Engineering Student** at  
+**Kalyani Government Engineering College**
 
-I love building real-world web applications and learning how modern software works from frontend to backend.
+💻 Interested in **Full-Stack Web Development, Software Engineering & AI Applications**
+🚀 I enjoy building **real-world applications** that combine frontend interfaces, backend systems, APIs and databases.
+🧠 I focus on **problem solving, clean code, debugging and understanding how applications work behind the scenes.**
+🌱 Currently strengthening my skills in **React.js, Data Structures & Algorithms and Full-Stack Development.**
+📍 **Kalyani, West Bengal, India**
+Focus:
+  - Scalable Web Apps
+  - Authentication Systems
+  - Database Design
+  - Clean UI/UX
+  - Deployment with Vercel & Render
 
-* 🎓 CSE Undergraduate @ KGEC
-* 💻 Full Stack Web Developer (MERN Learning Path)
-* 🚀 Building production-ready web apps with authentication & databases.
-* 🌱 Currently mastering **React, Node.js, Express, MongoDB & DSA**
-* 🤝 Open to internships, collaborations and exciting projects.
-
+I love building real-world web applications where frontend, backend and databases work together seamlessly.
 ---
 
-## 🧠 Currently Learning
-
-* ⚛️ React.js
-* 🌐 REST API Development
-* 🍃 MongoDB Atlas
-* 🔐 Authentication with JWT
-* ⚙️ Express.js & Backend Architecture
-* 📚 Data Structures & Algorithms
-* 🚀 Deployment (Vercel + Render)
-
----
-
-# 🚀 Tech Stack
-
-### Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css"/>
-</p>
-
-### Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,html,css,js"/>
-</p>
-
-### Backend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-</p>
-
-### Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render,npm"/>
-</p>
-
----
-
-# 🌟 Featured Project
-
-## 🍽️ FlavorFinder — Full Stack Recipe Web Application
-
-A modern recipe discovery platform inspired by Spotify UI.
-
-### ✨ Features
-
-* 🔍 Smart Recipe Search
-* 🍛 Filter by Cuisine & Category
-* ❤️ Favorite Recipes System
-* 👤 User Authentication (JWT)
-* 🔐 Login / Register
-* 👨 User Profile Dropdown
-* 📱 Fully Responsive UI
-* 🌍 MongoDB Atlas Database
-* ⚡ REST API Backend
-* ☁️ Vercel Production Deployment
-
-### ⚙️ Tech Used
-
-`HTML` • `CSS` • `JavaScript` • `Node.js` • `Express.js` • `MongoDB Atlas` • `JWT` • `REST API` • `Vercel`
-
-### 🌐 Live Demo
-
-**🔗 https://flavorfinder-recipe.vercel.app**
-
----
-
-# 💼 What I'm Working On
-
-```txt
-✔ Full Stack Projects
-✔ React Applications
-✔ Authentication System
-✔ MongoDB Database Design
-✔ REST APIs
-✔ Deployment on Vercel & Render
-✔ DSA Practice
-```
-
----
-
-# 📈 Development Journey
-
-```text
-C Programming
-      │
-HTML + CSS
-      │
-JavaScript
-      │
-Responsive UI
-      │
-React.js
-      │
-Node.js + Express
-      │
-MongoDB Atlas + Compass
-      │
-JWT Authentication
-      │
-REST APIs
-      │
-Deployment (Vercel / Render)
-      │
-🚀 Full Stack Development
-```
-
----
-
-# 📊 GitHub Analytics
+# 🛠️ Tech Stack
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=soumadip986&show_icons=true&theme=tokyonight&hide_border=true"/>
+### 💻 Programming Languages
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumadip986&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&perline=6" alt="Programming Languages"/>
+
+### 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&perline=5" alt="Frontend Technologies"/>
+
+### ⚙️ Backend & API Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postman&perline=3" alt="Backend Technologies"/>
+
+### 🗄️ Databases & Backend Services
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase&perline=4" alt="Database Technologies"/>
+
+### 🔧 Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel,netlify&perline=6" alt="Tools and Deployment"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🧠 Core Technical Skills
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=soumadip986&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📌 Goals for 2026
-
-* 🚀 Become a MERN Stack Developer.
-* 💼 Crack a Software Engineering Internship.
-* 🧩 Solve 300+ DSA Problems.
-* 🌍 Build multiple production-ready projects.
-* 🤖 Explore AI-powered Web Applications.
+| Category | Technologies |
+|---|---|
+| **Languages** | C, C++, Java, Python, JavaScript, TypeScript |
+| **Frontend** | HTML5, CSS3, JavaScript, React.js, Tailwind CSS, Bootstrap |
+| **Backend** | Node.js, Express.js |
+| **APIs** | REST APIs, API Integration, Postman |
+| **Databases** | MongoDB, MongoDB Atlas, MySQL, SQL |
+| **Backend Services** | Supabase, Firebase |
+| **Authentication** | JWT, HTTP-only Cookies |
+| **Version Control** | Git, GitHub |
+| **Development Tools** | VS Code, npm, Postman |
+| **Deployment** | Vercel, Render, Netlify |
 
 ---
 
-# 🤝 Connect With Me
+### ✨ Key Features
 
-<p align="left">
+- 🔎 Recipe Search
+- 🍛 Cuisine & Category Filtering
+- ❤️ Favorite Recipes
+- 👤 User Registration & Login
+- 🔐 JWT-Based Authentication
+- 🍪 HTTP-only Authentication Cookies
+- 🗄️ MongoDB Atlas User Database
+- 🔌 REST API Integration
+- 📱 Responsive User Interface
+- 🍽️ Detailed Recipe Pages
+- 👨‍🍳 Step-by-Step Cooking Mode
+- 🎬 Dynamic Hero Section
+- ⚙️ Environment Variable Configuration
+- ☁️ Production Deployment
+🤝 Connect With Me
 
-<a href="mailto:soumadipdey986@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/soumadip986">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+<a href="mailto:soumadipdey986@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="https://github.com/soumadip986"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 </p>
-
----
-
 <div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Code • Learn • Build • Repeat 🚀**
-
-*"Turning ideas into real web applications."*
-
+⭐ Thanks for visiting my GitHub Profile
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
 </div>
