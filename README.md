@@ -36,16 +36,7 @@
 🌱 Currently strengthening my skills in **React.js, Data Structures & Algorithms and Full-Stack Development.**
 
 📍 **Kalyani, West Bengal, India**
-
-### 🎯 Development Focus
-
-- Scalable Web Applications
-- Authentication Systems
-- Database Design
-- REST API Development
-- Responsive UI/UX
-- Cloud Deployment
-- Software Engineering Practices
+I love building real-world web applications where frontend, backend and databases work together seamlessly. ---
 
 ---
 
@@ -110,59 +101,10 @@
 
 ---
 
-# 📈 GitHub Activity
 
-<div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=soumadip986&theme=tokyo-night&hide_border=true&area=true"
-  width="100%"
-  alt="Soumadip's GitHub Activity Graph"
-/>
 
-</div>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy-winning.vercel.app/?username=soumadip986&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"
-  width="100%"
-  alt="Soumadip's GitHub Trophies"
-/>
-
-</div>
-
----
-
-# 🍴 Featured Project
-
-## FlavorFinder — Full-Stack Recipe Discovery Platform
-
-**FlavorFinder** is a full-stack recipe discovery web application designed to help users search, explore and save recipes through a modern responsive interface.
-
-### ✨ Key Features
-
-- 🔎 Recipe Search
-- 🍛 Cuisine & Category Filtering
-- ❤️ Favorite Recipes
-- 👤 User Registration & Login
-- 🔐 JWT-Based Authentication
-- 🍪 HTTP-only Authentication Cookies
-- 🔒 Password Hashing with bcrypt
-- 🗄️ MongoDB Atlas User Database
-- 🔌 REST API Integration
-- 📱 Responsive User Interface
-- 🍽️ Detailed Recipe Pages
-- 👨‍🍳 Step-by-Step Cooking Mode
-- 🎬 Dynamic Hero Section
-- ⚙️ Environment Variable Configuration
-- ☁️ Production Deployment
-
----
 
 # 🤝 Connect With Me
 
