@@ -20,7 +20,6 @@
 
 </div>
 
----
 
 ## 👨‍💻 About Me
 
@@ -36,6 +35,7 @@
 🌱 Currently strengthening my skills in **React.js, Data Structures & Algorithms and Full-Stack Development.**
 
 📍 **Kalyani, West Bengal, India**
+
 I love building real-world web applications where frontend, backend and databases work together seamlessly. ---
 
 ---
